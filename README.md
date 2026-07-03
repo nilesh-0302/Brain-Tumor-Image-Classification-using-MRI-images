@@ -21,12 +21,12 @@ Try the web app here:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/03nilb-spec/Brain_Tumor_Classification.git
-cd Brain_Tumor_Classification
+- git clone https://github.com/03nilb-spec/Brain_Tumor_Classification.git
+- cd Brain_Tumor_Classification
 
 ### 2. Set up Environment 
-python -m venv venv
-venv\Scripts\activate   
+- python -m venv venv
+- venv\Scripts\activate   
 
 ### 3. Install Dependencies
 pip install -r requirements.txt
